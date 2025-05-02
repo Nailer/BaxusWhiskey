@@ -17,13 +17,17 @@ Step-by-step instructions on how to set this project locally.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/your-repo.git](https://github.com/Nailer/BaxusWhiskey)
+git clone https://github.com/Nailer/BaxusWhiskey
 
 # Navigate to the project directory
-cd your-repo
+cd BaxusWhiskey
 
 # Install dependencies
 npm install
+or
+npm install --legacy-peer-deps
+
+npm run build 
 ```
 
 ## Usage
@@ -32,7 +36,11 @@ Instructions and examples for using the project.
 
 ```bash
 # Start the application
-npm start
+go to your chrome browser or any browser of your choice
+
+click on the extension icon on your browser
+
+then, click on 'manage extension' if you used chrome 
 ```
 
 ## Features
