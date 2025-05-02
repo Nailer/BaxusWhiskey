@@ -41,6 +41,12 @@ go to your chrome browser or any browser of your choice
 click on the extension icon on your browser
 
 then, click on 'manage extension' if you used chrome 
+
+then toggle the developer mode on 
+
+click on 'Load Unpacked' button to unpack the extension to activate it.
+
+
 ```
 
 ## Features
@@ -54,9 +60,9 @@ then, click on 'manage extension' if you used chrome
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
+2. Create a new branch (`git checkout -b main`).
 3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
+4. Push to the branch (`git push origin main`).
 5. Open a pull request.
 
 ## License
@@ -65,5 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)  
-GitHub: [your-username](https://github.com/your-username)
+Your Name - [ajeemmanuel221@gmail.com]
