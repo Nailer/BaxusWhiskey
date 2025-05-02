@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Baxus",
+    "version": "1.0.0",
+    "permissions": [
+        "tabs",
+        "scripting"
+    ],
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "32": "logo.png"
+        }
+    },
+    "icons": {
+        "32": "logo.png"
+    }
+}
