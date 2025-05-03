@@ -55,16 +55,7 @@ N.B => Please review and replace the API endpoint with a working one if you have
 
 
 
-
-
-
 ```
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Contributing
 
