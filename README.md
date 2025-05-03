@@ -50,6 +50,10 @@ and select the folder that you cloned the repository in your computer locally.
 
 this will install the extension to your browser.
 
+Open src/Integration.jsx 
+
+then replace the api endpoint in line 21
+
 
 N.B => Please review and replace the API endpoint with a working one if you have another.
 
