@@ -1,4 +1,4 @@
-# Project Name
+# Baxus Price Comparison
 
 This project was built for <a href="https://baxus.co">Baxus</a> developer program for detecting the best available price for Whiskey Bottles or wines in general. This project is used to compare prices of drinks from retail websites to the prices of drinks in Baxus - a website for buying of drinks [You must be above the age of 18 to use this software!]
 
@@ -49,6 +49,11 @@ click on 'Load Unpacked' button to unpack the extension to activate it.
 and select the folder that you cloned the repository in your computer locally.
 
 this will install the extension to your browser.
+
+
+N.B => Please review and replace the API endpoint with a working one if you have another.
+
+
 
 
 
