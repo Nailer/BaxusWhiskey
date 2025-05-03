@@ -46,6 +46,12 @@ then toggle the developer mode on
 
 click on 'Load Unpacked' button to unpack the extension to activate it.
 
+and select the folder that you cloned the repository in your computer locally.
+
+this will install the extension to your browser.
+
+
+
 
 ```
 
